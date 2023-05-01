@@ -11,3 +11,4 @@ A curated list of awesome fish datasets, inspired by [awesome-computer-vision](h
 - [NOAA Labelled Fishes in the Wild](https://www.st.nmfs.noaa.gov/aiasi/DataSets.html)
 - [Fish4Knowledge](https://homepages.inf.ed.ac.uk/rbf/fish4knowledge/)
 - [Brackish Underwater Dataset](https://public.roboflow.com/object-detection/brackish-underwater)
+- [KakudaFishAI Dataset](https://zenodo.org/record/7250921#.ZFAQ_NLMIcl)
